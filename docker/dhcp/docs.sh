@@ -1,0 +1,1 @@
+docker run -it --rm networkboot/dhcpd man dhcpd.conf

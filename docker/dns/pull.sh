@@ -1,0 +1,1 @@
+docker pull technitium/dns-server

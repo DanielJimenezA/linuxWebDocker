@@ -1,0 +1,1 @@
+docker run --name dhcp -d -it --init --net host -v "$(pwd)/data":/data networkboot/dhcpd eth0
